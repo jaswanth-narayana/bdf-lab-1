@@ -26,10 +26,10 @@ The server runs on http://localhost:3000. No environment variables are required.
 ## Screenshots
 
 ![Plain http server replying Hello](screenshots/plain-server.png)
-![GET / route](screenshots/home.png)
-![GET /about route](screenshots/about.png)
-![GET /time route](screenshots/time.png)
-![404 for an unknown path](screenshots/404.png)
+![GET / route](![Screenshot](./lab-01/Screenshot 2026-10-27 105341.png))
+![GET /about route](![Screenshot](./lab-01/Screenshot 2026-10-27 105323.png))
+![GET /time route](![Screenshot](./lab-01/Screenshot 2026-10-27 105301.png))
+![404 for an unknown path](![Screenshot](./lab-01/Screenshot 2026-10-27 105341.png)
 ![Express installed inside node_modules](screenshots/node_modules.png)
 ![Status codes of every route](screenshots/status-codes.png)
 
