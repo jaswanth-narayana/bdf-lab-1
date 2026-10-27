@@ -1,8 +1,20 @@
-# Lab 1: Node.js and Express server
+Lab 1: Node.js and Express Server
+Live deployment URL: https://bdf-lab-1.onrender.com//
 
-Jaswanth Narayana · <Registration number> · <Section>
+Subject: Backend Development Fundamentals
+Year/Term: Year II, Term II
+University: Aurora Deemed to be University
+Faculty: Mr. Joel Prashanth D
 
-**Live link:** <paste your deployed URL here after deployment>
+Student Details
+Field	Details
+Name	Vunnam Jaswanth narayana
+Registration Number	252U1R9170
+Section	S-26
+Project Objective
+This lab demonstrates the fundamentals of creating and running a Node.js backend server with Express.js. It covers project initialization with npm, dependency installation, Express application setup, route handling, JSON responses, date and time generation, HTTP status codes, and handling unknown routes.
+
+The project includes a basic Node.js HTTP server and an Express server that listens on port 3000.
 
 ## How to run
 
