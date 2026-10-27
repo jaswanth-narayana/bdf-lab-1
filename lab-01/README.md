@@ -11,6 +11,9 @@ Field	Details
 Name	Vunnam Jaswanth narayana
 Registration Number	252U1R9170
 Section	S-26
+
+
+
 Project Objective
 This lab demonstrates the fundamentals of creating and running a Node.js backend server with Express.js. It covers project initialization with npm, dependency installation, Express application setup, route handling, JSON responses, date and time generation, HTTP status codes, and handling unknown routes.
 
@@ -53,3 +56,6 @@ Problems faced and how I solved them:
 package.json was invalid JSON because the start script was outside the scripts block.
 node_modules was committed by mistake because .gitignore wasn’t saved, and you removed it with git rm -r --cached.
 The server didn’t start at first because plain-server.js was unsaved and empty.>
+
+
+git repo :https://github.com/jaswanth-narayana/bdf-lab-1/edit/main/lab-01
