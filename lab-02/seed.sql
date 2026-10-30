@@ -10,13 +10,13 @@ CREATE TABLE IF NOT EXISTS book (
 
 -- Insert 10 initial sample records
 INSERT INTO book (title, author, price, pages) VALUES
-('The Pragmatic Programmer', 'Andrew Hunt & David Thomas', 45, 352),
-('Clean Code', 'Robert C. Martin', 40, 464),
-('JavaScript: The Good Parts', 'Douglas Crockford', 30, 176),
-('Design Patterns', 'Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides', 55, 395),
-('Introduction to Algorithms', 'Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein', 85, 1312),
-('You Don''t Know JS Yet', 'Kyle Simpson', 25, 142),
-('Designing Data-Intensive Applications', 'Martin Kleppmann', 50, 616),
-('Refactoring: Improving the Design of Existing Code', 'Martin Fowler', 48, 448),
-('Node.js Design Patterns', 'Mario Casciaro & Luciano Mammino', 42, 520),
-('Eloquent JavaScript', 'Marijn Haverbeke', 35, 472);
+('Structure and Interpretation of Computer Programs', 'Harold Abelson & Gerald Jay Sussman', 55, 657),
+('Code Complete', 'Steve McConnell', 45, 960),
+('The Mythical Man-Month', 'Frederick P. Brooks Jr.', 35, 322),
+('Head First Design Patterns', 'Eric Freeman & Elisabeth Robson', 48, 694),
+('Cracking the Coding Interview', 'Gayle Laakmann McDowell', 38, 708),
+('Grokking Algorithms', 'Aditya Bhargava', 32, 256),
+('Clean Architecture', 'Robert C. Martin', 42, 432),
+('Fluent Python', 'Luciano Ramalho', 50, 792),
+('Operating Systems: Three Easy Pieces', 'Remzi H. Arpaci-Dusseau & Andrea C. Arpaci-Dusseau', 40, 714),
+('Computer Systems: A Programmer''s Perspective', 'Randal E. Bryant & David R. O''Hallaron', 75, 1120);

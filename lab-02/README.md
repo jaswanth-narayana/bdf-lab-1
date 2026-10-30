@@ -126,10 +126,10 @@ Open Postman, create a new request collection, and test each endpoint:
   ```json
   {
     "id": 1,
-    "title": "The Pragmatic Programmer",
-    "author": "Andrew Hunt & David Thomas",
-    "price": 45,
-    "pages": 352
+    "title": "Structure and Interpretation of Computer Programs",
+    "author": "Harold Abelson & Gerald Jay Sussman",
+    "price": 55,
+    "pages": 657
   }
   ```
 - **Error Testing (Non-Existent Book):**
@@ -160,10 +160,10 @@ Open Postman, create a new request collection, and test each endpoint:
 - **Body (raw JSON):**
   ```json
   {
-    "title": "The Pragmatic Programmer: 20th Anniversary Edition",
-    "author": "Andrew Hunt & David Thomas",
-    "price": 50,
-    "pages": 360
+    "title": "Structure and Interpretation of Computer Programs (2nd Edition)",
+    "author": "Harold Abelson & Gerald Jay Sussman",
+    "price": 60,
+    "pages": 680
   }
   ```
 - **Expected Status:** `200 OK`
