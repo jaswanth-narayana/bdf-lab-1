@@ -8,6 +8,8 @@
 - **Course:** Backend Development Fundamentals
 - **Academic Term:** Year II – Term II
 - **Faculty:** Joel Prashanth D
+-  **LIVE Link**https://backend-development-fundamentals-la-delta.vercel.app/
+  
 
 ---
 
